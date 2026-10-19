@@ -1,0 +1,4 @@
+# Keep evidence bytes identical across platforms for SHA-256 verification.
+*.csv -text
+*.png binary
+*.npz binary
